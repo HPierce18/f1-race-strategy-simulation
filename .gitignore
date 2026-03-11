@@ -1,0 +1,5 @@
+# Ignore fast f1 cache
+fastf1_http_cache.sqlite/
+
+# Ignore folder with raw 2022 data
+2022/
