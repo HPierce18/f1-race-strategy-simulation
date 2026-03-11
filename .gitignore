@@ -1,0 +1,8 @@
+# Ignore the FastF1 cache
+/fastf1_http_cache.sqlite
+
+# Ignore the raw session data
+/2022
+/2023
+/2024
+/2025
